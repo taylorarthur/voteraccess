@@ -17,6 +17,8 @@ green for low voter access states that went for Hillary, fuschia for high voter
 access states that went for Bernie, and blue for high voter access states that
 went for Hillary. 
 
+![colorplane choropleth of voter access by 2016 democratic primary result](accessxvote.png)
+
 ## Colorplanes
 The purpose of the colorplane is to increase the dimensionality of a 
 visualization by encoding two factors into a single color that can
