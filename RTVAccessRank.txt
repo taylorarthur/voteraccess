@@ -1,0 +1,71 @@
+Copied from PDF at http://www.nonprofitvote.org/documents/2011/06/voting-system-scorecard.pdf
+Automatic Registration
+Permanent and Portable Registration
+Online Registration
+Same Day Registration
+Third-Party Registration Drives
+Registration Score
+Voter ID Requirements
+Convenience Voting
+Residency Requirements
+Absentee Voting
+Overseas and Military Voting
+Voting Score
+High School Civics
+Pre-Registration
+Preparation Score
+TOTAL SCORE **
+% SCORE
+OVERALL RANK
+Best Possible Score 3 1 3 3 1 11 2 2 1 1 1 7 2 1 3 21 100%
+Alabama 0 0 0 0 1 1 1 0 0.5 0.5 0.3 2.3 2 0 2 5.3 25% 45
+Alaska 0 0 0 0 1 1 1 2 0.5 0.5 0.5 4.5 0 0 0 5.5 26% T-43
+Arizona 1 0 3 0 1 5 1 2 0.5 0.5 0.9 4.9 0 0 0 9.9 47% 17
+Arkansas 1 0 0 0 1 2 1 2 0.5 0.5 0.9 4.9 0 0 0 6.9 33% T-35
+California 1 0 0 0 1 2 2 2 1 1 0.8 6.8 2 1 3 11.8 56% T-10
+Colorado 0 1 3 0 0 4 1 2 0.5 1 0.6 5.1 0 0 0 9.1 43% T-21
+Connecticut 0 0 0 0 1 1 1 0 0.5 1 0.7 3.2 0 0 0 4.2 20% 48
+Delaware 2 1 3 0 0 6 1 0 0.5 0.5 1.0 3.0 2 1 3 12.0 57% T-7
+District of Columbia 1 1 0 3 1 6 2 2 1 1 0.8 6.8 1 0 1 13.8 66% 3
+Florida 1 0 0 0 0 1 1 2 0.5 1 0.8 5.3 0 1 1 7.3 35% 34
+Georgia 1 0 0 0 1 2 0 2 0.5 1 0.7 4.2 2 0 2 8.2 39% 27
+Hawaii 0 0 0 0 1 1 1 2 0 1 0.6 4.6 0 1 1 6.6 31% T-38
+Idaho 0 1 0 3 1 5 1 2 0 1 0.8 4.8 0 0 0 9.8 47% T-18
+Illinois 0 0 0 0 0 0 2 2 1 1 0.9 6.9 0 0 0 6.9 33% T-35
+Indiana 0 0 3 0 1 4 0 2 0.5 0.5 0.8 3.8 0 0 0 7.8 37% 28
+Iowa 0 1 0 3 1 5 2 2 1 1 0.9 6.9 2 0 2 13.9 66% 2
+Kansas 1 0 3 0 1 5 0 2 1 1 0.9 4.9 2 0 2 11.9 57% 9
+Kentucky 1 0 0 0 1 2 1 0 1 1 0.7 3.7 2 0 2 7.7 37% 29
+Louisiana 0 0 3 0 1 4 1 2 1 1 0.4 5.4 2 0 2 11.4 54% 12
+Maine 0 1 0 3 1 5 2 2 1 1 1.0 7.0 0 0 0 12.0 57% T-7
+Maryland 0 1 0 0 1 2 2 2 1 1 0.8 6.8 2 1 3 11.8 56% T-10
+Massachusetts 0 0 0 0 1 1 2 0 1 1 0.8 4.8 0 0 0 5.8 28% 42
+Michigan 1 0 0 0 1 2 1 0 1 0 0.6 2.6 2 0 2 6.6 31% T-38
+Minnesota 0 1 0 3 1 5 2 0 1 1 0.8 4.8 0 0 0 9.8 47% T-18
+Mississippi 0 0 0 0 1 1 2 0 1 0.5 0.9 4.4 2 0 2 7.4 35% 33
+Missouri 0 0 0 0 1 1 1 0 0.5 0.5 0.5 2.5 2 0 2 5.5 26% T-43
+Montana 0 1 0 3 1 5 1 2 1 1 0.9 5.9 2 0 2 12.9 61% 4
+Nebraska 0 0 0 0 0 0 2 2 1 1 0.9 6.9 2 0 2 8.9 42% 24
+Nevada 0 0 3 0 1 4 2 2 0.5 1 0.9 6.4 0 0 0 10.4 50% 15
+New Hampshire 0 1 0 3 0 4 2 0 1 1 0.7 4.7 0 0 0 8.7 41% 25
+New Jersey 1 0 0 0 1 2 2 0 1 1 0.7 4.7 0 0 0 6.7 32% 37
+New Mexico 0 0 0 0 0 0 2 2 0.5 1 0.9 6.4 2 0 2 8.4 40% 26
+New York 0 0 0 0 1 1 2 0 1 1 0.6 4.6 2 0 2 7.6 36% T-30
+North Carolina 1 1 0 3 1 6 2 2 0.5 0.5 0.8 5.8 0 1 1 12.8 61% T-5
+North Dakota - - - - - N/A 1 2 0.5 1 0.9 5.4 0 - N/A N/A N/A *
+Ohio 0 1 0 0 1 2 1 2 0.5 1 0.6 5.1 2 0 2 9.1 43% T-21
+Oklahoma 0 0 0 0 1 1 0 2 0.5 0.5 0.8 3.8 0 0 0 4.8 23% T-46
+Oregon 0 1 3 0 1 5 2 2 1 1 0.8 6.8 0 1 1 12.8 61% T-5
+Pennsylvania 1 0 0 0 1 2 2 0 1 0.5 0.8 4.3 0 0 0 6.3 30% T-40
+Rhode Island 1 0 0 0 1 2 2 0 0.5 0.5 0.3 3.3 0 1 1 6.3 30% T-40
+South Carolina 1 0 0 0 1 2 0 0 0.5 0.5 0.8 1.8 0 0 0 3.8 18% T-49
+South Dakota 1 1 0 0 1 3 1 2 1 0.5 0.8 5.3 2 0 2 10.3 49% 16
+Tennessee 0 0 0 0 1 1 1 2 0 0 0.8 3.8 0 0 0 4.8 23% T-46
+Texas 1 0 0 0 0 1 0 2 1 1 0.5 4.5 2 0 2 7.5 36% 32
+Utah 0 0 3 0 1 4 1 2 0.5 1 1.0 5.5 0 0 0 9.5 45% 20
+Vermont 0 0 0 0 1 1 2 2 1 1 0.6 6.6 0 0 0 7.6 36% T-30
+Virginia 0 0 0 0 1 1 1 0 0.5 0.5 0.8 2.8 0 0 0 3.8 18% T-49
+Washington 1 1 3 0 1 6 2 2 0.5 1 0.7 6.2 2 0 2 14.2 68% 1
+West Virginia 0 0 0 0 1 1 2 2 0.5 1 0.6 6.1 2 0 2 9.1 43% T-21
+Wisconsin 0 1 0 3 1 5 0 2 1 0.5 0.6 4.1 2 0 2 11.1 53% 13
+Wyoming 0 1 0 3 0 4 2 2 1 1 0.8 6.8 0 0 0 10.8 51% 14
