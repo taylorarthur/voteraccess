@@ -105,13 +105,16 @@ mp <- ggplot(dat, aes(map_id = state)) +
   expand_limits(x = usMap$long, y = usMap$lat) +
   coord_map() +
   theme_void() +
-  theme(plot.title = element_text(size = 28)) +
+  theme(plot.title = element_text(size = 28, 
+                                  margin = margin(30, 0, 0, 0))) +
   ggtitle("Voting Access Score v. 2016 Democratic Primary Results")
 
 leg <- legendPlot(dat$accessScore, dat$sanders, "Voter Access Score", 
                   "Sanders Vote %") + 
-  theme(axis.title = element_text(size = 18)) +
-  scale_y_continuous(labels = scales::percent)
+  theme(axis.title = element_text(size = 18), 
+        plot.title = element_text(size = 22)) +
+  scale_y_continuous(labels = scales::percent) +
+  ggtitle("Color Legend")
 
 png("accessxvote.png" , 800, 800)
 gridExtra::grid.arrange(mp, leg, layout_matrix = matrix(c(1, 1, NA, 1, 1, 2, 1, 1, NA), ncol = 3))

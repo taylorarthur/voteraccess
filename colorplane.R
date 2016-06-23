@@ -38,7 +38,7 @@ legendPlot <- function(x, y, xlab, ylab, Y = 128,
   dat$colors = colorPlane(dat[[1]], dat[[2]], Y = Y, 
                       xRange = xRange, yRange = yRange)
   ggplot(dat, aes(x = dat[[1]], y = dat[[2]], color = dat$colors)) +
-    geom_point(size = 6) +
+    geom_point(size = 4) +
     scale_color_identity() +
     labs(x = xlab, y = ylab) +
     scale_x_continuous(expand = c(0,0)) +
