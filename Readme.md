@@ -13,7 +13,7 @@ indicate a larger share of the vote went to Bernie Sanders.
 
 This creates four quadrants of color to describe the states: 
 red for low voter access states that went for Bernie, 
-green for low voter access states that went for Hillary, fuschia for high voter
+green for low voter access states that went for Hillary, fuchsia for high voter
 access states that went for Bernie, and blue for high voter access states that
 went for Hillary. 
 
@@ -30,7 +30,7 @@ broadcasting. To allow backwards compatibility, the luminosity (Y) component
 of the color, which is the only component of black and white signals, is 
 kept separate, and all of the color information is encoded into two additional
 channels (U & V). The result is that, for any fixed level of Y, the YUV color
-space is a plane of 4 quadrants of red, fuschia, blue, and green (clockwise)
+space is a plane of 4 quadrants of red, fuchsia, blue, and green (clockwise)
 with smooth gradient transitions between. Within each quadrant, more intense
 colors indicate values at the extremes and duller colors indicate values 
 closer to the middle of the range. 
@@ -56,25 +56,25 @@ for young voters. States score higher if voting is easier to access, and
 the score includes factors like same-day and online registration, early 
 voting options, and civics education for high-schoolers. 
 
-In the visualization, states in the blue, purple, and fuschia 
+In the visualization, states in the blue, purple, and fuchsia 
 color ranges have easier access to voting while states colored red, brown, or green have poorer access. 
 
 ## Election Results
 [Election results are scraped from Wikipedia](https://en.wikipedia.org/wiki/Democratic_Party_presidential_primaries,_2016) 
 as of June 23rd, 2016 (California's totals are not yet final at this time). 
 The metric displayed is the proportion of the vote (or equivalent measure for causes) received by Bernie Sanders. Sanders carried large wins in states 
-colored red and fuschia while Hillary Clinton was the clear winner in states 
+colored red and fuchsia while Hillary Clinton was the clear winner in states 
 colored green, teal, or blue. 
 
 ## Interpretation
 If voter access had a clear and consistent relationship with Sanders wins, 
-the map would be only green and fuschia. In the converse were true, that
+the map would be only green and fuchsia. In the converse were true, that
 voter access strongly benefited Clinton, the map would have been all reds and blues. 
 
 The result was instead a mix of colors, but there is a clear lack of 
 bright blues. 
 This indicates that Clinton did not have any big wins in states with good
-voter access. Since there are both intense fuschias and reds, Sanders on the
+voter access. Since there are both intense fuchsias and reds, Sanders on the
 other hand was 
 able to achieve large victories in states with both high and low voter access 
 scores. 
